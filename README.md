@@ -1,13 +1,13 @@
 # ytdl-simple-api
-- api simples de download de musicas e vídeos do youtube
+- Простой API для скачивания музыки и видео с медиасервисов
 
-## Deploy Fácil
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/erickythierry/ytdl-simple-api)
+## Быстрое развёртывание
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/webstaya/ytdl-simple-api)
 
-## live Exemplo
- - https://erickyytdl.herokuapp.com
+## Рабочий пример
+ - https://vdlapi.herokuapp.com
 
-### modo de usar:
+### как пользоваться:
 
-- http://erickyytdl.herokuapp.com/audio?url= + link do video do youtube
-- a api retornará um json com o link de download do mp3
+- https://vdlapi.herokuapp.com/?url= + ссылка на видео в поддерживаемом медиасервисе
+- в ответе вернётся json со ссылкой на скачивание файла

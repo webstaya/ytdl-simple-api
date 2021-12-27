@@ -1,6 +1,6 @@
 {
-    "name": "ytdl api simples",
-    "description": "api simples de download de musicas/videos",
+    "name": "Простой API для ytdl",
+    "description": "Простой API для скачивания видео / музыки",
     "logo": "",
     "keywords": ["ytdl", "api", "download", "yt"],
     "buildpacks": [
